@@ -125,3 +125,172 @@ p{
 
     margin-left: 8%;
 }
+
+
+.skill-area{
+
+
+    background-image: url(../image/work-bg.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    margin-top: 2%;
+ }
+
+.full-bar{
+
+    width: 100%;
+    background-color:lightgray;
+    height: 40px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.skills-html{
+
+    background-color: lime;
+    width: 90%;
+    padding: 8px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.contant{
+    width: 800px;
+    margin-left: 10%;
+    padding-top: 2%;
+}
+
+
+
+.skills-css{
+
+    background-color: lime;
+    width: 80%;
+    padding: 8px;
+    font-size: 20px;
+    text-align: right;
+}
+
+
+.skills-java{
+
+    background-color: lime;
+    width: 40%;
+    padding: 8px;
+    font-size: 20px;
+    text-align: right;
+}
+
+
+
+.skills-php{
+
+    background-color: lime;
+    width: 10%;
+    padding: 8px;
+    font-size: 20px;
+    text-align: right;
+}
+
+
+.chat-area{
+
+   margin-left: 10%;
+    width: 80%;
+   
+
+}
+
+.contant-area{
+
+    background-image: url(../image/chatbg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: 10%;
+
+}
+
+.half{
+
+    float: left;
+    padding: 1%;
+    width: 50%;
+    
+
+}
+
+.chatheading{
+
+    color: white;
+    padding-left: 2%;
+    margin-left: 15%;
+    margin-top: 15%;
+    color: white;
+   
+
+}
+
+.chat-button{
+
+    background-color: tomato;
+    padding: 15px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    margin-left: 10%;
+    
+}
+
+#small{
+
+    padding-top: 10%;
+    margin-right: -50%;
+}
+
+#small a{
+
+    text-decoration: none;
+    color: white;
+}
+
+.below-area{
+
+    width: 60%;
+    margin-left: 10%;
+    margin-top: -7%;
+}
+
+.bheading{
+
+    margin-left: 45%;
+    color: gray;
+
+}
+
+.mail{
+
+    margin-left: 33%;
+    text-transform: lowercase;
+
+}
+
+.icon img{
+
+ width: 60%;
+ float: left;
+ padding: 10px;
+ margin-left: 10px;
+ 
+ 
+}
+
+
+.icon ul {
+    margin-left: 35%;
+}
+
